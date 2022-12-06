@@ -3,8 +3,7 @@ Created: December 5, 2022 4:11 PM
 
 ## Table of Contents
 
-- [NIC Pattern Datasets](#nic-pattern-datasets)
-  * [NIC Dataset Overview](#nic-dataset-overview)
+- [NIC Dataset Overview](#nic-dataset-overview)
   * [Graph Representation](#graph-representation)
   * [Online Access to the Dataset](#online-access-to-the-dataset)
 - [Ground Truth Datasets](#ground-truth-datasets)
@@ -17,7 +16,7 @@ Created: December 5, 2022 4:11 PM
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Generated with markdown-toc</a></i></small>
 
 
-## NIC Dataset Overview
+# NIC Dataset Overview
 
 The data for this repository comes from the Federal Financial Institutions Examination Council’s (FFIEC) National Information Center (NIC). The NIC provides historical information on banks and other institutions (FIs) for which the Federal Reserve supervisory, regulatory, or research interest. 
 
